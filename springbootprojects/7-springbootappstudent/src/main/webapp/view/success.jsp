@@ -1,0 +1,1 @@
+<h1 style="color: brown;">data successfully inserted</h1>
